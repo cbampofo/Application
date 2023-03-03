@@ -1,0 +1,3 @@
+FileC
+This is file c
+This is test fileC
